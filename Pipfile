@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-panapi = "*"
 unpeurave = ">=0.1.0"
 
 [dev-packages]
