@@ -6,8 +6,8 @@
   <version>1</version>
   <dependencies>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>org.apache.velocity:velocity</artifactId>
+      <groupId>org.apache.velocity</groupId>
+      <artifactId>velocity</artifactId>
       <version>1.5</version>
     </dependency>
   </dependencies>
