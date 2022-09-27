@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-oauthlib = "==3.2.0"
+oauthlib = "==3.2.1"
 
 [dev-packages]
 
