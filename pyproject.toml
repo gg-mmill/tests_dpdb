@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tests-dpdb"
+version = "0.1.0"
+description = ""
+authors = ["Mathias Millet <mathias.millet@gitguardian.com>"]
+readme = "README.md"
+packages = [{include = "tests_dpdb"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+unpeurave = "0.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
