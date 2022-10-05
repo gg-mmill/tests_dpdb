@@ -9,6 +9,7 @@ packages = [{include = "tests_dpdb"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 unpeurave = ">=0.1.0"
+celery = "5.2.2"
 
 
 [build-system]
