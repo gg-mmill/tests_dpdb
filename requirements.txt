@@ -1,1 +1,1 @@
-rdiffweb==2.4.5
+rdiffweb==2.5.4
